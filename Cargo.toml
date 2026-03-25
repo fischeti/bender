@@ -1,12 +1,12 @@
 [package]
 name = "bender"
-version = "0.0.3"
+version = "0.0.4"
 authors = [
   "Fabian Schuiki <fschuiki@iis.ee.ethz.ch>",
   "Andreas Kurth <akurth@iis.ee.ethz.ch>",
   "Michael Rogenmoser <michael@rogenmoser.us>",
 ]
-repository = "https://github.com/pulp-platform/bender"
+repository = "https://github.com/fischeti/bender"
 description = "A dependency management tool for hardware projects."
 readme = "README.md"
 license = "Apache-2.0 OR MIT"
