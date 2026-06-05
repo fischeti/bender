@@ -45,7 +45,7 @@ jobs:
             runner: windows-latest
             cache_golden_bin: true
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v6.0.2
         with:
           submodules: recursive
       - name: Install Rust non-interactively if not already installed
